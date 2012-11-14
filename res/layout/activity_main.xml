@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@android:color/white"
+    
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+   	<com.example.scrollimageview.TagScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@android:color/background_light"
+        android:focusable="true"
+        android:clickable="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" >
+
+     
+        <com.example.scrollimageview.TagChildView
+            android:id="@+id/button1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+    		android:layout_x="0px"
+    		android:layout_y="20px"
+            android:text="Button" />
+        
+        <com.example.scrollimageview.TagChildView
+            android:id="@+id/button2"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+    		android:layout_x="0px"
+    		android:layout_y="40px"
+            android:text="Button2" />
+        
+        <com.example.scrollimageview.TagChildView
+            android:id="@+id/button3"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+    		android:layout_x="0px"
+    		android:layout_y="60px"
+            android:text="Button3" />
+        
+        <com.example.scrollimageview.TagChildView
+            android:id="@+id/button4"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+    		android:layout_x="0px"
+    		android:layout_y="80px"
+            android:text="Button3" />
+    
+        
+    </com.example.scrollimageview.TagScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,20 @@
+F:\workspace\ScrollImageView\bin\test.ap_ \
+ : F:\workspace\ScrollImageView\res\drawable-hdpi\ic_action_search.png \
+F:\workspace\ScrollImageView\res\drawable-hdpi\ic_launcher.png \
+F:\workspace\ScrollImageView\res\drawable-ldpi\ic_launcher.png \
+F:\workspace\ScrollImageView\res\drawable-mdpi\ic_action_search.png \
+F:\workspace\ScrollImageView\res\drawable-mdpi\ic_launcher.png \
+F:\workspace\ScrollImageView\res\drawable-xhdpi\ic_action_search.png \
+F:\workspace\ScrollImageView\res\drawable-xhdpi\ic_launcher.png \
+F:\workspace\ScrollImageView\res\layout\activity_main.xml \
+F:\workspace\ScrollImageView\res\menu\activity_main.xml \
+F:\workspace\ScrollImageView\res\values\strings.xml \
+F:\workspace\ScrollImageView\res\values\styles.xml \
+F:\workspace\ScrollImageView\bin\res\drawable-hdpi\ic_action_search.png \
+F:\workspace\ScrollImageView\bin\res\drawable-hdpi\ic_launcher.png \
+F:\workspace\ScrollImageView\bin\res\drawable-ldpi\ic_launcher.png \
+F:\workspace\ScrollImageView\bin\res\drawable-mdpi\ic_action_search.png \
+F:\workspace\ScrollImageView\bin\res\drawable-mdpi\ic_launcher.png \
+F:\workspace\ScrollImageView\bin\res\drawable-xhdpi\ic_action_search.png \
+F:\workspace\ScrollImageView\bin\res\drawable-xhdpi\ic_launcher.png \
+F:\workspace\ScrollImageView\bin\AndroidManifest.xml \

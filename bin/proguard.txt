@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:13
+-keep class com.example.scrollimageview.MainActivity { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:17
+# view res/layout/activity_main.xml #generated:25
+# view res/layout/activity_main.xml #generated:33
+# view res/layout/activity_main.xml #generated:41
+-keep class com.example.scrollimageview.TagChildView { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:7
+-keep class com.example.scrollimageview.TagScrollView { <init>(...); }
+
